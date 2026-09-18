@@ -71,7 +71,7 @@ The next step in setting up your Python environment is to use the `uv` package m
 > 3.  Once the `uv sync` command has finished running, activate the created environment by executing
 > 
 >     ```
->     source .venv/bin/activate`
+>     source .venv/bin/activate
 >     ```
 > 4. If the environment was activated successfully, the command prompt in VSCode's Integrated Terminal should now have a `(dsan6000-hw02)` prefix. That is, the prompt should look like:
 > 
